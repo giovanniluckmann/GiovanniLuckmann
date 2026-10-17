@@ -50,10 +50,4 @@ Currently developing a portfolio focused on applying analytical methods to real 
 
 `Business Analytics` · `Data Analytics` · `Strategy` · `Financial Services` · `Data Science`
 
----
-
-## Connect
-
-([LINKEDIN_URL](https://www.linkedin.com/in/giovanniluckmann)) · Portfolio coming soon
-
 </div>
