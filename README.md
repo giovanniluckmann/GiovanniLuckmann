@@ -4,8 +4,6 @@
 
 ### Business & Data Analytics · Strategy · Financial Services
 
-Turning data into structured insights for better business decisions.
-
 </div>
 
 ---
