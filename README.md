@@ -18,7 +18,7 @@ Currently developing a portfolio focused on applying analytical methods to real 
 
 ---
 
-## Core toolkit
+## Tools & Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
