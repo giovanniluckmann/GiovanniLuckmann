@@ -12,7 +12,7 @@ Turning data into structured insights for better business decisions.
 
 ## About me
 
-Master's candidate in **Data Analytics and Decision Support Systems**, with a background in International Business and a strong interest in **business analytics, strategy, financial services and data-driven decision-making**.
+Master's candidate in **Data Analytics and Decision Support Systems at Coimbra Business School**, with a **Bachelor's degree in International Trade and Economic Relations** and a strong interest in **business analytics, strategy, financial services and data-driven decision-making**.
 
 Currently developing a portfolio focused on applying analytical methods to real business problems.
 
